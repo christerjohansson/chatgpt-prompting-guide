@@ -1,3 +1,6 @@
+![Banner about AI](./images/banner.jpg)
+
+
 # Prompt engineering for developers
 
 Jupyter code notebooks for Prompt engineering for developers
