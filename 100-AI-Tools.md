@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Writing
+title: AI Tools
 parent: N/A
 author: Christer Johansson
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Writing
-parent: Prompt Basic Persona Template
+title: Prompt Basic Persona Template
+parent: N/A
 author: Christer Johansson
 ---
 
