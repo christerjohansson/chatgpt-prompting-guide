@@ -2,10 +2,6 @@
 
 Guide and framework for creating ChatGPT Prompts
 
-![GitHub Repo stars](https://img.shields.io/github/stars/christerjohansson/chatgpt-prompting-guide?style=social) - **Our GitHub Stars!**
-
- ![GitHub last commit](https://img.shields.io/github/last-commit/christerjohansson/chatgpt-prompting-guide?style=plastic)
-
 This repo was developed by [@christerjohansson](https://github.com/christerjohansson)
 Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/christerjohansson/)
 
